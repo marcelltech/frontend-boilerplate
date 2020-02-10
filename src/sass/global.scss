@@ -1,0 +1,23 @@
+@import 'mixins'; // Mixins
+@import 'fonts'; // Fonts
+@import 'variables'; // Variables
+@import 'colors'; // Colors
+
+body {
+    font-family: $font-family-regular;
+    background-color: $color-primary;
+    text-align: center;
+
+    h1 {
+        font-family: $font-family-semibold;
+        color: $color-secundary
+    }
+
+    p {
+        color: $color-gray
+    }
+}
+
+.img-circle {
+    border-radius: 150px;
+}
