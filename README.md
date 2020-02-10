@@ -1,6 +1,6 @@
 # Frontend Boilerplate
 
-Boilerplate using Webpack and React for a frontend application
+Boilerplate using Webpack and React for a frontend application.
 
 ## Getting started
 
